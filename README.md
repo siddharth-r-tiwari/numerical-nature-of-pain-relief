@@ -8,7 +8,15 @@ In case of any questions, please do not hesitate to contact us.
 
 ### Environment:
 This code was used on a Windows machine using the following setup:
-- R (4.2.0)
+- R (4.2.0) with
+  - pmbcapply (1.5.1)
+  - wesanderson (0.3.6)
+  - ggplot2 (3.3.6)
+  - ggdist (.1.1)
+  - ggh4x (0.4.1)
+  - patchwork (4.1.1)
 
+### File and Output Description:
+`figs.R` contains the scripts for the study's figures (figures 1 through 7); the data for the study can be found within the "data" folder and the resulting figures within the "figures" folder
 
-### How to Run/File and Output Description:
+### Disclaimer:
