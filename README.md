@@ -12,7 +12,7 @@ This code was used on a Windows machine using the following setup:
   - pmbcapply (1.5.1)
   - wesanderson (0.3.6)
   - ggplot2 (3.3.6)
-  - ggdist (.1.1)
+  - ggdist (3.1.1)
   - ggh4x (0.4.1)
   - patchwork (4.1.1)
 
